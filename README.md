@@ -11,7 +11,7 @@ Conteúdo abordado:
 - Objetos
 - Funções arrow, map e filter.
 
-**[Link da aula:]**(https://speakerdeck.com/alessandranastassja/javascript-avancado)
+*Veja os slides da aula, [aqui](https://speakerdeck.com/alessandranastassja/javascript-avancado).*
 
 ## *Como rodar ?* 🚀
 ### *Tecnologias usadas:*
