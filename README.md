@@ -28,3 +28,7 @@ Conteúdo abordado:
 ```
 
 > *Obs.: Os exercícios podem ser realizados no navegador.*
+
+### Referências:
+
+[Guide of the Javascript](https://jskatas.org/)
