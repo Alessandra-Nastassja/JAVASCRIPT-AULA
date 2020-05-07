@@ -1,4 +1,4 @@
-![](https://i.ytimg.com/vi/XxPjcMTZz5w/maxresdefault.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png)
 > Obs.: Imagem by Loiane
 
 # Aula - Javascript avançado 💻
