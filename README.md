@@ -1,3 +1,6 @@
+![](https://i.ytimg.com/vi/XxPjcMTZz5w/maxresdefault.jpg)
+> Obs.: Imagem by Loiane
+
 # Aula - Javascript avançado 💻
 Aula realizada no programa de estágio B2W.
 
