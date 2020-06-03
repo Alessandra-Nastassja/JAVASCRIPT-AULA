@@ -2,7 +2,7 @@
 > Obs.: Imagem by Loiane
 
 # Aula - Javascript avançado 💻
-Aula realizada no programa de estágio B2W.
+Aula realizada no programa de estágio B2W no treinamento de **Angular**.
 
 ******
 
